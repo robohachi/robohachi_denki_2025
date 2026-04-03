@@ -1,2 +1,2 @@
 # robohachi_denki
-説明のためのファイル
+コード共有用git
